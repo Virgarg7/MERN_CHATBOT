@@ -7,3 +7,5 @@
 5. Cross Platform
 6. Modern Web Devolpment  
 
+## Project Introdcution
+A Modern AI Project which will use OpenAI API to create An AI Real-Time ChatBot.The application will store the User's Chats In a Database to keep track of conversations , but a user can delete them anytime using CRUD Functionality. The UI is Capbale of showing the Code Blocks if Requested by User. 
