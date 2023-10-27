@@ -1,6 +1,6 @@
 # Project Description:
 
-This modern AI project is designed to create a real-time AI chatbot using the MERN (MongoDB, Express, React, Node.js) stack and the OpenAI API. The application not only leverages advanced AI technology but also prioritizes user privacy and security through various mechanisms. This project combines cutting-edge AI technology with a robust and secure tech stack to create a modern chatbot application that offers unique features, data privacy, and seamless user interactions. It has the potential to be applied in various domains, making it a valuable addition to the world of AI-driven applications. Contributions from the developer community are welcomed to enhance and expand its capabilities further. Here are the key aspects of this project:
+This modern AI project is designed to create a real-time AI chatbot using the MERN (MongoDB, Express, React, Node.js) stack and the OpenAI API. The application not only leverages advanced AI technology but also prioritizes user privacy and security through various mechanisms. This project combines cutting-edge AI technology with a robust and secure tech stack to create a modern chatbot application that offers unique features, data privacy, and seamless user interactions. It has the potential to be applied in various domains, making it a valuable addition to the world of AI-driven applications. Contributions from the developer community are welcomed to enhance and expand its capabilities further. Here are the key aspects of this project :
 
 # Unique Selling Points (USPs):
 
